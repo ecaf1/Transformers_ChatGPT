@@ -7,20 +7,17 @@ Neste repositório, oferecemos uma visão geral abrangente da inteligência arti
 
 ## Visão Geral dos Tópicos Abordados
 
-- Inteligência Artificial Generativa
+- **Inteligência Artificial Generativa**
+    - **Definição e Fundamentos**: Entenda o que é IA generativa e como ela se diferencia de outras formas de inteligência artificial.
+    - **Aplicações**: Explore os diversos usos da IA generativa em diferentes indústrias, como arte, música, e design de jogos.
+    - **Desafios e Perspectivas**: Discuta os desafios técnicos e éticos envolvidos no desenvolvimento e implementação de IA generativa.
+- **Processamento de Linguagem Natural**
+    - **Evolução e linha do tempo**: Um panorama da evolução histórica do PLN, com uma linha do tempo que ilustra os principais avanços tecnológicos e modelos de destaque.
+    - **Por que PLN**?
+        - **Qual é a tarefa de PLN que não preciso de anotação manual?**: Explicação sobre as tarefas de PLN que podem ser realizadas sem a necessidade de grandes esforços de anotação manual, como a previsão da próxima palavra.
+        - **Conjunto de dados auto supervisionado**: Um detalhamento sobre o uso de conjuntos de dados auto supervisionados em PLN, demonstrando como essas técnicas estão mudando a maneira de treinar modelos de linguagem.
 
-- Definição e Fundamentos: Entenda o que é IA generativa e como ela se diferencia de outras formas de inteligência artificial.
-    - Aplicações: Explore os diversos usos da IA generativa em diferentes indústrias, como arte, música, e design de jogos.
-    - Desafios e Perspectivas: Discuta os desafios técnicos e éticos envolvidos no desenvolvimento e implementação de IA generativa.
-- Transformer
-    - Mecanismo de Self-Attention: Detalhe como o self-attention funciona e por que é uma inovação significativa nos modelos de linguagem.
-    - Arquitetura de Transformers: Descreva a estrutura interna dos modelos baseados em transformers e como eles processam os dados.
-    - Variações e Evoluções: Apresente variações dos modelos de transformers, como BERT, GPT-2, GPT-3, e suas capacidades únicas.
-    - ChatGPT
-
-- Desenvolvimento do ChatGPT: Explique a evolução do ChatGPT desde suas primeiras versões até os modelos mais recentes.
-    - Funcionalidades: Demonstre como o ChatGPT pode ser aplicado em cenários de uso real, como suporte ao cliente, educação e entretenimento.
-    - Integração e Personalização: Mostre como personalizar e integrar o ChatGPT em aplicações existentes para maximizar sua utilidade.
+- Referências
 
 ## Inteligência Artificial Generativa
 É fundamental entender que a Inteligência Artificial Generativa não se limita apenas a modelos ultra sofisticados com bilhões de parâmetros. Na verdade, essa área abrange uma variedade de ferramentas de geração de conteúdo que empregam diversas técnicas, particularmente aquelas baseadas em aprendizado profundo (deep learning). Estas ferramentas são projetadas para facilitar a criação automática de dados e informações, oferecendo soluções inovadoras em diversos campos de aplicação.
@@ -68,28 +65,30 @@ A geração de dados sintéticos permite aumentar conjuntos de dados e melhorar 
 
 <p style=>Fonte: Imagem gerada por DALL-E 2</p>
 
-### Por que PLN?
-Como visto no tópico acima, existem diversas aplicações para redes generativas. No entanto, a aplicação que mais se destaca está relacionada ao Processamento de Linguagem Natural (PLN), especialmente em geração de texto. Isso levanta uma pergunta:
-
-- Por que houve esse boom em geração de texto e não em geração de imagem?
-
-
-
-
-
-### Processamento de Linguagem Natural
+# Processamento de Linguagem Natural
 A imagem abaixo ilustra um pouco da evolução das tecnologis no PLN até os dias atuais.
 
 <img src="images/blog.dsacademy.webp" alt="Imagem gerada por DALL-E 2" width="50%" />
 
 <p style=>Fonte: https://blog.dsacademy</p>
 
-## Referências
+## Por que PLN?
+Como visto no tópico acima, existem diversas aplicações para redes generativas. No entanto, a aplicação que mais se destaca está relacionada ao Processamento de Linguagem Natural (PLN), especialmente em geração de texto. Isso levanta uma pergunta:
+
+- Por que houve esse boom em geração de texto e não em geração de imagem?
+
+<img src="images/download (1).jpeg" width="50%">
+
+### Qual é a tarefa de PLN que não preciso de anotação manual?
+<img src="images/Screenshot_20240917_074932.png" width="50%">
+<p> Descrição: Prever a proxima palavra</p>
+
+### Conjunto de dados auto supervisionado
+<img src="images/Screenshot_20240917_075057.png" width="50%">
+
+
+# Referências
 
 - [Guia Completo sobre Inteligência Artificial Generativa - DS Academy](https://blog.dsacademy.com.br/guia-completo-sobre-inteligencia-artificial-generativa/)
 - [LLMs e a Evolução da IA Generativa](https://blog.dsacademy.com.br/llms-e-a-evolucao-da-ia-generativa/)
-- [Título do Artigo 3](link_para_o_artigo_3)
-- [Título do Artigo 3](link_para_o_artigo_3)
-- [Título do Artigo 3](link_para_o_artigo_3)
-- [Título do Artigo 3](link_para_o_artigo_3)
-- [Título do Artigo 3](link_para_o_artigo_3)
+- [IA377 - Seminários FEEC: Roberto LotufoTítulo do Artigo 3](https://www.youtube.com/live/PuKaN2mqMvg?si=MyYQ8S2ZaNUMqG26)
